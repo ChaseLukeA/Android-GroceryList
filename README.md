@@ -1,11 +1,13 @@
 #Android - Grocery List App
-##An Android app targeting AP16 (compatability)
+###An Android app targeting AP16 (compatability)
 
 ###About
 
 This project is a grocery list app for Android devices. It currently uses a grocery_list.xml file as the grocery list. Will soon be updating to use SQLite as the database.
 
 Allows you to add new items, auto-updates the quantity of existing items, and has an "In Cart?" checkbox for each item to check if you've added the item to your shopping cart already.
+
+####This is a really good example of my Java understanding and coding skills
 
 ###TODO:
 
