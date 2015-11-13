@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="add_grocery_item_button_text">Add Item</string>
+    <string name="add_grocery_item_edit_text_hint">Please enter a grocery item</string>
+    <string name="add_grocery_item_edit_text_error">You did not enter an item</string>
+    <string name="add_grocery_item_quantity_edit_text_hint">1</string>
+    <string name="add_grocery_item_quantity_edit_text_error">You did not enter a valid number</string>
+    <string name="add_grocery_item_error">There was a problem adding the item to the grocery list</string>
+    <string name="add_grocery_item_quantity_updated">Updated existing item quantity</string>
+    <string name="add_grocery_item_success">Grocery item added</string>
+    <string name="grocery_item_quantity">Qty</string>
+    <string name="grocery_item_name">Item Name</string>
+    <string name="grocery_item_in_cart">In Cart?</string>
+    <!--NOTES: <string-array name="groceryList"> created in grocery_list.xml instead, I
+      wanted to separate concerns - this seems like a good place for labels and texts,
+      but not for a grocery item list . . . I hope this was ok George! -->
+</resources>

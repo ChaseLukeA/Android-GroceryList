@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#5164ce</color>
+    <color name="color_primary_dark">#1c255c</color>
+    <color name="color_accent">#e196ff</color>
+    <color name="color_accent_dark">#652d7b</color>
+    <color name="color_text">#ffda60</color>
+    <color name="color_hint">#8b7f56</color>
+    <color name="grocery_item_text_color_light">#dfe3ff</color>
+    <color name="grocery_item_text_color_dark">#1b1e30</color>
+    <color name="grocery_item_background_color_light">#afb5e1</color>
+    <color name="grocery_item_background_color_dark">#2e334e</color>
+</resources>
